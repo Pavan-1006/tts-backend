@@ -1,4 +1,5 @@
 fastapi
 uvicorn
-gtts
+edge-tts
 moviepy
+python-multipart
