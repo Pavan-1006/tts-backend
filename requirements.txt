@@ -2,4 +2,6 @@ fastapi
 uvicorn
 edge-tts
 moviepy
+imageio
+imageio-ffmpeg
 python-multipart
